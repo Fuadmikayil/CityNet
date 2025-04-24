@@ -72,7 +72,7 @@ const PlanCard = ({
             <div className="bg-gray-100 rounded-lg px-4 py-2 flex justify-between items-center text-sm">
               <div className="flex items-center gap-2">
                 <PiTelevisionSimpleBold className="text-[#a43b4c] w-5 h-5" />
-                250-dək kanal
+                251-dək kanal
               </div>
               <span className="text-xs text-[#a43b4c] font-medium cursor-pointer">Ətraflı</span>
             </div>
